@@ -1,13 +1,15 @@
 # JuegoParaUnDiaEspecial
-Desarrollo de un juego para un día especial (Formato)
+Desarrollo de un juego para un día especial o para esa personita especial 😉 
 
-# Lugares significativos
- - Campus
- - Cascada
- - Cine
- - Su Casa
- - Supermercados
- - Restaurantes
- - Esperando por el Bus
+# Formato
 
-# Pistas
+ ## Lugares significativos
+  - Campus
+  - Cascada
+  - Cine
+  - Su Casa
+  - Supermercados
+  - Restaurantes
+  - Esperando por el Bus
+
+ ## Pistas
